@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-     <head>
-        <meta charset="utf-8">
-        <title>Project: HiAina</title>
-     </head>
-     <body>
-    
-        <h1>Welcome to the Hawaiian Aina Garden App</h1>
-    
-        <p>A catalog of Native Hawaiian plants and how to take care of them</p>
-        <ing src = "gardenpics/hiainahomescreen.jpg">
-     </body>
-</html>
+# HiAina Garden App
+
+A catalog of native Hawaiian plants!
+![garden](hiainahomescreen.jpg)
