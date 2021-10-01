@@ -7,7 +7,7 @@ Hawaiian Plants A-Z!
 
 # W
 
-  ## White Ginger
+## White Ginger
 ![hibiscus](gardenpics/whiteginger.jpg)
 
 __Awapuhi Ke'oke'o__
