@@ -43,9 +43,8 @@ _Artocarpus altilis_
 ###### Purpose:
 Is eaten as a potato substitute of some people, eaten as a fritter or snack for others.
 
-
 ###### To Grow:
-
+Grown from a seed breadfruit can take 5 to 10 years until it starts to produce fruit. To start from a seed, it should be grown in moist soil with direct sunlight misted daily with a spray bottle. An adult or premature breadfruit tree should be watered once, daily, thoroughly and regularly during the morning or afternoon.
 # C
 # D
 # E
