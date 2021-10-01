@@ -2,10 +2,33 @@
 ### A catalog of native Hawaiian plants!
 
 Hawaiian Plants A-Z!
+
 ![garden](gardenpics/hiainahomescreen.jpg)
 
-[A](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#b)
-
+[A]
+[B](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#b)
+[C]
+[D]
+[E]
+[F]
+[G]
+[H]
+[I]
+[L]
+[M]
+[N]
+[O]
+[P]
+[Q]
+[R]
+[S]
+[T]
+[U]
+[V]
+[W]
+[X]
+[Y]
+[Z]
 # A
 # B
 
