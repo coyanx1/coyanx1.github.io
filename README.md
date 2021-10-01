@@ -76,6 +76,13 @@ Anthuriums are shade plants, they prefer indirect sunlight and are sensitive to 
 # S
 # T
 
+## Ti Leaf
+![Tileaf](gardenpics/tileaf.jpg)
+
+__Lau-Ki__
+
+_Cordyline fruticosa_
+
 ## Tumeric
 ![Tumeric](gardenpics/tumeric.jpg)
 
