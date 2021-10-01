@@ -4,7 +4,31 @@
 Hawaiian Plants A-Z!
 
 ![garden](gardenpics/hiainahomescreen.jpg)
+# A
+# B
 
+## Bread Fruit
+
+# C
+# D
+# E
+# F
+# G
+# H
+# I
+# J
+# K
+# L
+# M
+# N
+# O
+# P
+# Q
+# R
+# S
+# T
+# U
+# V
 # W
 
 ## White Ginger
@@ -19,3 +43,7 @@ White ginger is commonly grown in many places in Hawaii, like in the wild and in
 ###### To Grow:
 
 White ginger could be grown just from a piece of the plant's root or a section of the plant's root and stock. It takes a few months for it to start growing stalks and blooms in summer for around 4-6 weeks. This plant likes shade and plenty of water, and should have a maximum 2 hours of sun.
+
+# X
+# Y
+# Z
