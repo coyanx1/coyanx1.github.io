@@ -75,6 +75,20 @@ Anthuriums are shade plants, they prefer indirect sunlight and are sensitive to 
 # R
 # S
 # T
+
+## Tumeric
+![Tumeric](gardenpics/tumeric.jpg)
+
+__'Olena__
+
+_Curcuma domestica_
+
+###### Purpose:
+Turmeric was introduced to Hawaii by the polynesians, they used it to cure ear infection, nasal ailments, and to purify the blood. The early hawaiians also used its dark yellow/orange color to dye their kapas, today in hawaii it is more commonly used for tonics and seasoning in many dishes.
+
+###### Care Instructions:
+It takes around 10 months for turmeric to be harvested after planting, it should be planted in a brightly light place with plenty of sunlight and soil. If planted in a pot it should be transplanted once its roots run out of space. To keep it from going into shock, have at least 50% of it solid with and on the roots.
+
 # U
 # V
 # W
