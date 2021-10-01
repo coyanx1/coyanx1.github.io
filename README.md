@@ -8,6 +8,14 @@ Hawaiian Plants A-Z!
 # B
 
 ## Bread Fruit
+![Bread Fruit](gardenpics/breadfruit.jpg)
+
+__Ulu'__
+
+_Artocarpus altilis_
+###### Purpose:
+
+###### To Grow:
 
 # C
 # D
@@ -19,6 +27,11 @@ Hawaiian Plants A-Z!
 # J
 # K
 # L
+
+## Lace Leaf
+![laceleaf](gardenpics/laceleaf.jpg)
+
+_Anthuriums_
 # M
 # N
 # O
