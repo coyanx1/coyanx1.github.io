@@ -5,30 +5,32 @@ Hawaiian Plants A-Z!
 
 ![garden](gardenpics/hiainahomescreen.jpg)
 
-[A]
+[A](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#a)
 [B](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#b)
-[C]
-[D]
-[E]
-[F]
-[G]
-[H]
-[I]
-[L]
-[M]
-[N]
-[O]
-[P]
-[Q]
-[R]
-[S]
-[T]
-[U]
-[V]
-[W]
-[X]
-[Y]
-[Z]
+[C](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#c)
+[D](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#d)
+[E](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#e)
+[F](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#f)
+[G](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#g)
+[H](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#h)
+[I](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#i)
+[J](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#j)
+[K](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#k)
+[L](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#l)
+[M](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#m)
+[N](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#n)
+[O](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#o)
+[P](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#p)
+[Q](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#q)
+[R](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#r)
+[S](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#s)
+[T](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#t)
+[U](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#u)
+[V](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#v)
+[W](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#w)
+[X](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#x)
+[Y](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#y)
+[Z](https://github.com/coyanx1/coyanx1.github.io/blob/main/README.md#z)
 # A
 # B
 
