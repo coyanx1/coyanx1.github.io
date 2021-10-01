@@ -14,6 +14,8 @@ __Ulu'__
 
 _Artocarpus altilis_
 ###### Purpose:
+Is eaten as a potato substitute of some people, eaten as a fritter or snack for others.
+
 
 ###### To Grow:
 
@@ -32,6 +34,13 @@ _Artocarpus altilis_
 ![laceleaf](gardenpics/laceleaf.jpg)
 
 _Anthuriums_
+
+###### Purpose: 
+In Hawaii Anthuriums are mostly used as decorative plants. They are used in bouquets to give to others and decorate homes or placed at loved ones' graves.
+
+###### Care Instructions: 
+Anthuriums are shade plants, they prefer indirect sunlight and are sensitive to the sun, love humidity, and are very sensitive plants. They should be watered when the soil is moist, but drying out, and watered until the water starts draining out of its pot’s drainage hole. To keep it healthy and blooming it should be fed weekly with fertilizer that is rich with phosphorus.
+
 # M
 # N
 # O
