@@ -31,6 +31,13 @@ Hawaiian Plants A-Z!
 [X](https://coyanx1.github.io/#x)
 [Y](https://coyanx1.github.io/#y)
 [Z](https://coyanx1.github.io/#z)
+
+#### Our Promise
+We here at HiAina have a dedication to the preservation of the Hawaiian islands.
+We seek to educate and provide guidance to gardeners on the islands, to preserve the land with proper information and techniques. 
+
+
+
 # A
 # B
 
