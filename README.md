@@ -63,6 +63,20 @@ Birds of paradise grow best in full sun, if the sun is too harsh partial sun is 
 # F
 # G
 # H
+
+## Hibiscus
+![hibiscus](gardenpics/hibiscus.jpg)
+
+__Kokiʻo ʻula or Aloalo__
+
+_Hibiscus_
+
+###### Purpose:
+Are used in teas, tinctures, and natural remedies, as well as professional medicine. Hibiscus come in an array of many colors so they are used very often as decorations in homes, lei’s, hair, ect.
+
+###### Care Instructions:
+Hibiscus grows best in full sun, if the sun is too harsh partial sun is best only in the hottest part of the day or the flowers will suffer from too much shade. They should be watered a maximum of every day but for the best results they should be watered every other day when the soil is almost completely dry.
+
 # I
 # J
 # K
