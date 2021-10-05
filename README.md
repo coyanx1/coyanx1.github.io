@@ -49,7 +49,14 @@ Grown from a seed breadfruit can take 5 to 10 years until it starts to produce f
 ## Bird of Paradise
 ![birdofparadise](gardenpics/birdofparadise.jpg)
 
-__
+_Strelitzia reginae_
+
+###### Purpose:
+In Hawaii birds of paradise are mostly used as decorative plants. They are used in bouquets to give to others, decorate homes or placed at loved ones' graves.
+ 
+###### Care Instruction:
+Birds of paradise grow best in full sun, if the sun is too harsh partial sun is best. Watering should only be done when soil starts to feel dry to prevent overwatering, only water enough to make the soil moist and don't water again until the soil is dry again. When it becomes cooler the water is even less.
+
 # C
 # D
 # E
@@ -71,6 +78,11 @@ In Hawaii Anthuriums are mostly used as decorative plants. They are used in bouq
 
 ###### Care Instructions: 
 Anthuriums are shade plants, they prefer indirect sunlight and are sensitive to the sun, love humidity, and are very sensitive plants. They should be watered when the soil is moist, but drying out, and watered until the water starts draining out of its pot’s drainage hole. To keep it healthy and blooming it should be fed weekly with fertilizer that is rich with phosphorus.
+
+## Lobster Claws
+![heliconias](gardenpics/heliconias.jpg)
+
+_Heliconias_
 
 # M
 # N
