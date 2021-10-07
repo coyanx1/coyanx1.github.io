@@ -71,7 +71,7 @@ Birds of paradise grow best in full sun, if the sun is too harsh partial sun is 
 # G
 
 ## Ginger (Bitter)
-![gingerbitter](gardenpics.bitterginger.jpg)
+![gingerbitter](gardenpics/bitterginger.jpe)
 
 __‘awapuhi__
 
