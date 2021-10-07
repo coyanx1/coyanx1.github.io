@@ -69,6 +69,19 @@ Birds of paradise grow best in full sun, if the sun is too harsh partial sun is 
 # E
 # F
 # G
+
+## Ginger (Bitter)
+![gingerbitter](gardenpics.bitterginger.jpg)
+
+__‘awapuhi__
+
+_Zingiber zerumbet_
+
+###### Purpose:
+Can be used as a compress of bruises, cuts, sores, and as other forms of natural medicine. They are mostly used today as decorative plants, in bouquets to give to others, decorate homes or placed at loved ones' graves.
+###### Care Instructions:
+They should be watered regularly when the soil starts becoming dry to the touch, should be in a cool area with full sun. You can also plant the roots after soaking them in warm water overnight and plant with care the next day.
+
 # H
 
 ## Hibiscus
