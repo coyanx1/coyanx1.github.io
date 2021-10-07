@@ -119,6 +119,19 @@ Anthuriums are shade plants, they prefer indirect sunlight and are sensitive to 
 _Heliconias_
 
 # M
+ 
+## Mountain apple
+![mountainapple](gardenpics/mountainapple.jpg)
+__Ohia Ai__
+
+_Syzygium malaccense_
+
+###### Purpose:
+In Hawaii, and other places around the world mountain apples are mostly eaten; they are eaten fresh, pickled, dried, made into wine, and eaten many other ways.
+
+###### Care Instructions:
+Mountain apples thrive in full sun and only need to be watered once a week or once every 2 weeks. If planted from a seed it will take 5 years before it starts flowering, but if bought from a nursery as a partly grown tree it will only take 3 years.
+
 # N
 # O
 # P
