@@ -124,6 +124,20 @@ _Heliconias_
 # P
 # Q
 # R
+
+## Red ginger
+![redginger](gardenpics/redginger.jpg)
+
+__'awapuhi-'ula'ula__
+
+_Alpinia purpurata_
+
+###### Purpose:
+Red ginger can be used as some forms of natural medicine but is mostly used today as a decorative plant, in bouquets to give to others, decorate homes or placed at loved ones' graves.
+
+###### Care Instructions: 
+Red ginger is a plant that loves warm, moist climates, with full sun to little shade, and should not be in temperatures that exceed 45 F.
+
 # S
 # T
 
