@@ -253,6 +253,13 @@ __Lau-Ki__
 
 _Cordyline fruticosa_
 
+###### Type of Plant:
+Small tree 
+###### Purpose: 
+It comes in many colors, in early Hawaii green Ti leaf was used by the polynesians for good luck, to ward off spirits, lei’s, and cooked with (commonly wrapped food and boiled, steamed, and grilled it, not usually eaten). Today it is also used for all the same reasons but it is also used to keep flies away when eating and at gatherings.
+###### Care Instructions:
+For a ti leaf plant it needs to be watered regularly almost every day, along with trimming of any dead leaves. Red ti leaves will reproduce by branching out small leaf plants at the bottom of its stem, to grow additional red ti leaf all that is needed is to break off any breaching out and repot it or throw it away. For green ti leaves take a part of its stem that has been broken off or cut soak it in water or just directly plant it in the soil but water with plenty of water.
+
 ## Tumeric
 ![Tumeric](gardenpics/tumeric.jpg)
 
