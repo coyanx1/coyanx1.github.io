@@ -72,6 +72,9 @@ _Jasminum sambac_
 __Ulu'__
 
 _Artocarpus altilis_
+
+###### Type of Plant:
+Large tree
 ###### Purpose:
 Is eaten as a potato substitute of some people, eaten as a fritter or snack for others.
 
@@ -132,6 +135,8 @@ Hibiscus grows best in full sun, if the sun is too harsh partial sun is best onl
 
 _Anthuriums_
 
+###### Type of Plant:
+Small waxy leaf plant
 ###### Purpose: 
 In Hawaii Anthuriums are mostly used as decorative plants. They are used in bouquets to give to others and decorate homes or placed at loved ones' graves.
 
@@ -282,6 +287,8 @@ It takes around 10 months for turmeric to be harvested after planting, it should
 __Awapuhi Ke'oke'o__
 
 _Hedychium coronarium_
+###### Type of Plant: 
+Root with stems
 ###### Purpose:
 White ginger is commonly grown in many places in Hawaii, like in the wild and in gardens. It is grown as a decorative plant for homes, for the flower’s strong scent, and for lei’s or haku’s.
 ###### To Grow:
