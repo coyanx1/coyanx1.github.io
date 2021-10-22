@@ -39,6 +39,20 @@ We seek to educate and provide guidance to gardeners on the islands, to preserve
 
 
 # A
+
+## Aloe / Aloe Vera
+![aloe](gardenpics/aloe.jpg)
+
+__Alo’e__
+
+_Aloe barbadensis miller_
+
+###### Purpose: 
+Aloe is commonly used as decoration for a home or a remedy to relieve sunburn, as skin treatments, and for other medical purposes.
+ 
+###### Care Instructions: 
+Aloe vera needs plenty of sunlight, to be watered regularly, and well drained soil/pot. It's important not to over water aloe and to only water after the soil starts to become dry again.
+
 # B
 
 ## Bread Fruit
