@@ -53,6 +53,17 @@ Aloe is commonly used as decoration for a home or a remedy to relieve sunburn, a
 ###### Care Instructions: 
 Aloe vera needs plenty of sunlight, to be watered regularly, and well drained soil/pot. It's important not to over water aloe and to only water after the soil starts to become dry again.
 
+## Arabian jasmine
+![arabianjasmine](gardenpics/arabianjasmine.jpg)
+
+__Pikake__
+
+_Jasminum sambac_
+
+###### Purpose:  It is grown as a decorative plant for homes, for the flower’s strong scent, and for lei’s or haku’s. 
+###### Care Instructions: Should be grown in full sun and only watered if its soil is almost completely dry or around 2 a week. It should also be trimmed and cut back when it starts to get too big.
+
+
 # B
 
 ## Bread Fruit
@@ -151,6 +162,29 @@ Mountain apples thrive in full sun and only need to be watered once a week or on
 # O
 # P
 
+## Papaya
+![papaya](gardenpics/papaya.jpg)
+
+_Carica papaya_
+
+###### Purpose: 
+A papaya tree is generally grown to eat, many love it for its sweet flavor and is eaten in many different fresh, chilled, in drinks, bread and other baked goods.
+###### Care Instructions:
+This tree does best in sunny areas and moist soil that is watered once every day. If in a place that has colder temperatures it should only be watered once the soil is slightly dried out.
+
+## Passion Fruit 
+![passionfruit](gardenpics/passionfruit.jpg)
+
+__Lilikoi__
+
+_Passiflora edulis_
+
+###### Purpose: 
+Is mostly grown for the fruit, it’s beautiful purple and white flowers produce a ripe yellow or purple fruit (depending on the variety) that has a fragrant and wonderful sweet sour flavor.
+###### Care Instructions: 
+Passion fruit does best in full sun or partial shade in hotter climates, it should be watered regularly but only when the soil starts to dry and should be planted in an area where the vines can start to climb.
+
+
 ## Plumeria
 ![plumeria](gardenpics/plumeria.jpg)
 
@@ -159,6 +193,16 @@ Plumeria was used as a natural remedy in Mexico, but today in Hawaii it is known
 ###### Care Instructions:
 Plumeria trees grow in partial sun with around 6 hours of sun and only need to be watered every two to three weeks.
 
+## Pua- kenikeni
+![puakenikeni](gardenpics/puakenikeni.jpg)
+
+_Fagraea berteroana_
+###### Type of Plant: 
+Flowering tree
+###### Purpose:
+It is grown as a decorative plant for homes, for the flower’s strong scent, and for lei’s or haku’s. 
+###### Care Instructions:
+This lovely tree should be in full sun or partial shade for overly hot climates and watered regularly.
 
 # Q
 # R
@@ -179,6 +223,29 @@ Red ginger is a plant that loves warm, moist climates, with full sun to little s
 # S
 # T
 
+## Tabasco Pepper
+![tabascopepper](gardenpics/tabascopepper.jpg)
+
+_Capsicum frutescens_
+
+###### Purpose: 
+In Hawaii it is mostly used to add flavor and season food; it's put in soy sauce, on fish, as a sauce, in water, and much more.
+###### Care Instructions:
+The soil should be moist but not too wet or saggy and full sun or partial shade in hotter climates.
+
+## Tahitian Gardenia
+![tahitiangardenia](gardenpics/tahitiangardenia.jpg)
+
+__Tiare__
+
+_Gardenia taitensis_
+###### Type of Plant: 
+Flowering shrub
+###### Purpose:
+The tahitian gardenia is used mostly as a decorative flower/plant for it’s looks and sweet fragrance in things like lei’s, haku’s, and perfumes.
+###### Care Instructions:
+The Tahitian gardenia does well in partial shade especially when growing in an area that has a hotter climate. It should only be watered once a week to every other week unless growing in a hotter climate it should be watered twice a week.
+
 ## Ti Leaf
 ![Tileaf](gardenpics/tileaf.jpg)
 
@@ -195,7 +262,6 @@ _Curcuma domestica_
 
 ###### Purpose:
 Turmeric was introduced to Hawaii by the polynesians, they used it to cure ear infection, nasal ailments, and to purify the blood. The early hawaiians also used its dark yellow/orange color to dye their kapas, today in hawaii it is more commonly used for tonics and seasoning in many dishes.
-
 ###### Care Instructions:
 It takes around 10 months for turmeric to be harvested after planting, it should be planted in a brightly light place with plenty of sunlight and soil. If planted in a pot it should be transplanted once its roots run out of space. To keep it from going into shock, have at least 50% of it solid with and on the roots.
 
@@ -210,10 +276,8 @@ __Awapuhi Ke'oke'o__
 
 _Hedychium coronarium_
 ###### Purpose:
-
 White ginger is commonly grown in many places in Hawaii, like in the wild and in gardens. It is grown as a decorative plant for homes, for the flower’s strong scent, and for lei’s or haku’s.
 ###### To Grow:
-
 White ginger could be grown just from a piece of the plant's root or a section of the plant's root and stock. It takes a few months for it to start growing stalks and blooms in summer for around 4-6 weeks. This plant likes shade and plenty of water, and should have a maximum 2 hours of sun.
 
 # X
