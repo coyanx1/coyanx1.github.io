@@ -136,6 +136,16 @@ Mountain apples thrive in full sun and only need to be watered once a week or on
 # N
 # O
 # P
+
+## Plumeria
+![plumeria](gardenpics/plumeria.jpg)
+
+###### Purpose:
+Plumeria was used as a natural remedy in Mexico, but today in Hawaii it is known as “poisonous” . Its sap can cause sensitive skin to have minor rashes and if it gets into eyes can cause temporary blindness and is commonly climbed regardless. It comes in a variety of colors, its fragrant flowers are used to decorate houses, in lei’s and haku’s, soaps and perfumes.
+###### Care Instructions:
+Plumeria trees grow in partial sun with around 6 hours of sun and only need to be watered every two to three weeks.
+
+
 # Q
 # R
 
