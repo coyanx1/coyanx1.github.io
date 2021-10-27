@@ -5,30 +5,38 @@ if x == "dry": #dry
   if y == "yes": #edible
     e = input("Do you want the plant to have medicinal purposes?")
     if e == "yes":
-      q = input("Do you want the plant to be aesthetically pleasing?")
-      if q == "yes":
+      q = input("Do you want the plant to be a Tree, Shrub, or Root?")
+      if q == "tree":
         print("You should grow ____, ______, or ______")
-      elif q == "no":
+      elif q == "shrub":
+        print("You should grow ____, ______, or ______")
+      elif q == "root":
         print("You should grow ____, ______, or ______")
     elif e == "no":
-      q = input("Do you want the plant to be aesthetically pleasing?")
-      if q == "yes":
+      q = input("Do you want the plant to be a Tree, Shrub, or Root?")
+      if q == "tree":
         print("You should grow ____, ______, or ______")
-      elif q == "no":
-        print("You should grow ____, ______, r ______") #test
+      elif q == "shrub":
+        print("You should grow ____, ______, or ______")
+      elif q == "root":
+        print("You should grow ____, ______, or ______") #test
   elif y == "no": #inedible
     e = input("Do you want the plant to have medicinal purposes?")
     if e == "yes":
-      q = input("Do you want the plant to be aesthetically pleasing?")
-      if q == "yes":
+      q = input("Do you want the plant to be a tree, shrub, or root?")
+      if q == "tree":
         print("You should grow ____, ______, or ______")
-      elif q == "no":
+      elif q == "shrub":
+        print("You should grow _33___, ______, or ______")
+      elif q == "root":
         print("You should grow ____, ______, or ______")
     elif e == "no":
-      q = input("Do you want the plant to be aesthetically pleasing?")
-      if q == "yes":
+      q = input("Do you want the plant to be a tree, shrub, or root?")
+      if q == "tree":
         print("You should grow ____, ______, or ______")
-      elif q == "no":
+      elif q == "shrub":
+        print("You should grow _33___, ______, or ______")
+      elif q == "root":
         print("You should grow ____, ______, or ______")
     
 if x == "wet": #wet
@@ -36,28 +44,36 @@ if x == "wet": #wet
   if y == "yes": #edible
     e = input("Do you want the plant to have medicinal purposes?")
     if e == "yes":
-      q = input("Do you want the plant to be aesthetically pleasing?")
-      if q == "yes":
+      q = input("Do you want the plant to be a tree, shrub, or root?")
+      if q == "tree":
         print("You should grow ____, ______, or ______")
-      elif q == "no":
+      elif q == "shrub":
+        print("You should grow _33___, ______, or ______")
+      elif q == "root":
         print("You should grow ____, ______, or ______")
     elif e == "no":
-      q = input("Do you want the plant to be aesthetically pleasing?")
-      if q == "yes":
+      q = input("Do you want the plant to be a tree, shrub, or root?")
+      if q == "tree":
         print("You should grow ____, ______, or ______")
-      elif q == "no":
+      elif q == "shrub":
+        print("You should grow _33___, ______, or ______")
+      elif q == "root":
         print("You should grow ____, ______, or ______")
   elif y == "no": #inedible
     e = input("Do you want the plant to have medicinal purposes?")
     if e == "yes":
-      q = input("Do you want the plant to be aesthetically pleasing?")
-      if q == "yes":
+      q = input("Do you want the plant to be a tree, shrub, or root?")
+      if q == "tree":
         print("You should grow ____, ______, or ______")
-      elif q == "no":
+      elif q == "shrub":
+        print("You should grow _33___, ______, or ______")
+      elif q == "root":
         print("You should grow ____, ______, or ______")
     elif e == "no":
-      q = input("Do you want the plant to be aesthetically pleasing?")
-      if q == "yes":
+      q = input("Do you want the plant to be a tree, shrub, or root?")
+      if q == "tree":
         print("You should grow ____, ______, or ______")
-      elif q == "no":
+      elif q == "shrub":
+        print("You should grow _33___, ______, or ______")
+      elif q == "root":
         print("You should grow ____, ______, or ______")
