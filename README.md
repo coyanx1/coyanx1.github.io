@@ -90,6 +90,8 @@ Grown from a seed breadfruit can take 5 to 10 years until it starts to produce f
 
 _Strelitzia reginae_
 
+###### Type of Plant: 
+Relatively large “flower” 
 ###### Purpose:
 In Hawaii birds of paradise are mostly used as decorative plants. They are used in bouquets to give to others, decorate homes or placed at loved ones' graves.
  
@@ -276,6 +278,8 @@ __'Olena__
 
 _Curcuma domestica_
 
+###### Type of Plant: 
+Root with stalks and flowers
 ###### Purpose:
 Turmeric was introduced to Hawaii by the polynesians, they used it to cure ear infection, nasal ailments, and to purify the blood. The early hawaiians also used its dark yellow/orange color to dye their kapas, today in hawaii it is more commonly used for tonics and seasoning in many dishes.
 ###### Care Instructions:
@@ -292,7 +296,7 @@ __Awapuhi Ke'oke'o__
 
 _Hedychium coronarium_
 ###### Type of Plant: 
-Root with stems
+Root with flowering stems
 ###### Purpose:
 White ginger is commonly grown in many places in Hawaii, like in the wild and in gardens. It is grown as a decorative plant for homes, for the flower’s strong scent, and for lei’s or haku’s.
 ###### To Grow:
