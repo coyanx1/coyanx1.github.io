@@ -6,7 +6,7 @@ Hawaiian Plants A-Z!
 ![garden](gardenpics/hiainahomescreen.jpg)
 
 
-<iframe src="https://trinket.io/embed/python3/7776aa1bee?showInstructions=true" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/678191014e?outputOnly=true&runOption=console&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
 [A](https://coyanx1.github.io/#a)
